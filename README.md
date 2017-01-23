@@ -5,4 +5,6 @@
   
   Todas las redes estan conectadas mediante routers.
   
-  Tenemos 3 servidores web
+  Tenemos 3 servidores web.
+  Uno de ellos muestra una foto de albacete (www.albacete.es), otro de ellos nos mostrara una foto de Wagner (www.wagner.de) y el ultimo nos mostrara una fotografia de Dílar (www.dilar.com)
+  Ademas existe un servidor DNS que nos permitira los accesos anteriores.
